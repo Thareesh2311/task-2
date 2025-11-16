@@ -1,0 +1,51 @@
+Order ID,Order Date,Ship Mode,Category,Sub-Category,Region,Sales,Quantity,Discount,Profit
+CA-1001,2020-09-19,Same Day,Office Supplies,Art,East,1514.13,7,0.28,-121.13
+CA-1002,2021-04-12,Same Day,Furniture,Tables,West,1303.22,6,0.37,-221.55
+CA-1003,2020-11-16,Second Class,Office Supplies,Paper,Central,82.65,6,0.38,-14.88
+CA-1004,2021-04-02,First Class,Office Supplies,Binders,South,1915.95,5,0.16,76.64
+CA-1005,2020-05-23,Standard Class,Technology,Machines,Central,728.94,3,0.36,-116.63
+CA-1006,2022-04-15,Same Day,Technology,Phones,East,525.98,1,0.04,84.16
+CA-1007,2020-09-19,Standard Class,Office Supplies,Art,South,231.47,5,0.28,-18.52
+CA-1008,2020-05-04,Second Class,Office Supplies,Paper,East,579.47,6,0.19,5.79
+CA-1009,2021-01-27,First Class,Office Supplies,Art,Central,1172.65,9,0.07,152.44
+CA-1010,2021-05-12,Same Day,Technology,Machines,East,132.07,9,0.2,0.0
+CA-1011,2022-03-17,Second Class,Technology,Phones,Central,508.4,7,0.3,-50.84
+CA-1012,2022-03-27,Second Class,Technology,Machines,East,246.75,7,0.22,-4.93
+CA-1013,2020-05-29,First Class,Office Supplies,Paper,East,667.7,6,0.05,100.16
+CA-1014,2021-03-01,First Class,Technology,Accessories,East,1021.34,4,0.34,-142.99
+CA-1015,2021-06-20,Second Class,Office Supplies,Art,Central,1142.98,10,0.36,-182.88
+CA-1016,2020-05-11,Same Day,Office Supplies,Binders,Central,392.06,7,0.05,58.81
+CA-1017,2022-05-09,Standard Class,Office Supplies,Paper,Central,1060.65,3,0.02,190.92
+CA-1018,2022-03-29,First Class,Office Supplies,Art,West,995.01,7,0.01,189.05
+CA-1019,2022-07-21,Standard Class,Technology,Accessories,Central,148.68,2,0.16,5.95
+CA-1020,2020-08-31,Same Day,Technology,Accessories,Central,120.92,1,0.21,-1.21
+CA-1021,2020-06-10,First Class,Furniture,Chairs,West,818.22,9,0.04,130.92
+CA-1022,2021-02-24,First Class,Technology,Accessories,East,1696.49,9,0.36,-271.44
+CA-1023,2022-08-13,Same Day,Office Supplies,Binders,Central,1615.61,2,0.04,258.5
+CA-1024,2022-07-05,Standard Class,Furniture,Bookcases,West,365.7,10,0.26,-21.94
+CA-1025,2022-05-27,First Class,Furniture,Bookcases,East,918.08,5,0.19,9.18
+CA-1026,2021-03-10,Second Class,Office Supplies,Paper,Central,1630.93,7,0.18,32.62
+CA-1027,2021-05-21,First Class,Office Supplies,Binders,Central,405.62,7,0.02,73.01
+CA-1028,2022-04-17,First Class,Office Supplies,Binders,West,733.55,6,0.24,-29.34
+CA-1029,2020-11-07,Standard Class,Office Supplies,Paper,South,1553.1,3,0.08,186.37
+CA-1030,2020-10-14,Second Class,Furniture,Chairs,West,870.32,9,0.15,43.52
+CA-1031,2022-02-24,Second Class,Office Supplies,Paper,West,217.74,4,0.27,-15.24
+CA-1032,2020-10-01,First Class,Office Supplies,Art,Central,612.92,2,0.19,6.13
+CA-1033,2021-03-13,Same Day,Furniture,Chairs,South,683.97,6,0.23,-20.52
+CA-1034,2021-09-26,Same Day,Office Supplies,Paper,East,343.1,10,0.16,13.72
+CA-1035,2021-10-04,First Class,Office Supplies,Binders,Central,1031.44,9,0.02,185.66
+CA-1036,2021-10-06,Standard Class,Technology,Phones,East,527.83,3,0.37,-89.73
+CA-1037,2022-03-21,Second Class,Technology,Phones,East,707.26,2,0.33,-91.94
+CA-1038,2021-08-03,Same Day,Office Supplies,Art,Central,247.03,2,0.24,-9.88
+CA-1039,2022-06-18,First Class,Technology,Phones,West,1214.55,8,0.14,72.87
+CA-1040,2021-06-25,Standard Class,Office Supplies,Paper,Central,1642.26,6,0.23,-49.27
+CA-1041,2021-05-06,Standard Class,Furniture,Tables,South,1687.17,5,0.16,67.49
+CA-1042,2022-02-14,Standard Class,Technology,Accessories,Central,1546.33,6,0.09,170.1
+CA-1043,2021-09-30,Standard Class,Technology,Accessories,West,1579.31,8,0.02,284.28
+CA-1044,2020-10-27,Second Class,Office Supplies,Paper,West,958.41,10,0.2,0.0
+CA-1045,2022-08-04,First Class,Furniture,Tables,East,1067.6,5,0.13,74.73
+CA-1046,2022-07-13,First Class,Office Supplies,Paper,South,827.61,4,0.23,-24.83
+CA-1047,2020-04-25,Standard Class,Technology,Phones,South,1219.02,4,0.24,-48.76
+CA-1048,2022-05-01,Second Class,Furniture,Tables,South,169.57,4,0.0,33.91
+CA-1049,2020-08-10,Second Class,Office Supplies,Art,Central,42.92,4,0.04,6.87
+CA-1050,2020-05-29,First Class,Technology,Machines,West,759.02,6,0.04,121.44
